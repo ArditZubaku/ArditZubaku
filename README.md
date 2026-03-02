@@ -13,11 +13,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-## Core Expertise
-
----
-
-### Languages
+## Languages
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -27,7 +23,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-### Backend & Architecture
+## Backend & Architecture
 
 <p>
   <!-- AWS / Cloud Managed -->
@@ -51,7 +47,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-### Data & Streaming
+## Data & Streaming
 
 <p>
   <!-- AWS First -->
@@ -70,7 +66,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 <p>
   <!-- AWS First -->
@@ -92,7 +88,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-### Professional Experience
+## Professional Experience
 
 #### Event-Driven Cloud Systems
 Architected and operated serverless ingestion pipelines using AWS Lambda, SQS, DynamoDB, and Kafka.  
@@ -107,7 +103,7 @@ Developed production-grade GraphQL APIs with optimized batching (DataLoader), ef
 
 ---
 
-### Public Projects
+## Public Projects
 
 #### [Distributed File Storage (Go)](https://github.com/ArditZubaku/distributed-file-storage)
 Peer-to-peer decentralized storage system with automatic replication and encryption.  
