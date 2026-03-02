@@ -13,11 +13,11 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-# Core Expertise
+## Core Expertise
 
 ---
 
-## Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -27,7 +27,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-## Backend & Architecture
+### Backend & Architecture
 
 <p>
   <!-- AWS / Cloud Managed -->
@@ -51,7 +51,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-## Data & Streaming
+### Data & Streaming
 
 <p>
   <!-- AWS First -->
@@ -70,7 +70,7 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <!-- AWS First -->
@@ -92,52 +92,61 @@ My work centers around distributed microservices, event-driven architectures, an
 
 ---
 
-## Professional Experience Highlights
+### Professional Experience
 
-Event-driven serverless systems built on AWS Lambda, SQS, DynamoDB, and Kafka for large-scale ingestion and alerting pipelines.
+#### Event-Driven Cloud Systems
+Architected and operated serverless ingestion pipelines using AWS Lambda, SQS, DynamoDB, and Kafka.  
+Built large-scale data processing and alerting systems with strong emphasis on performance, reliability, and infrastructure automation (Terraform).
 
-High-concurrency Go microservices deployed to Kubernetes (AKS), integrating Redis and RabbitMQ with full observability.
+#### High-Concurrency Go Services
+Designed distributed Go microservices deployed on Kubernetes (AKS), integrating Redis and RabbitMQ.  
+Focused on autoscaling, observability (Prometheus, Grafana, OTEL), and performance benchmarking under production load.
 
-Production-grade GraphQL APIs with optimized batching, efficient database access patterns, and robust testing.
-
----
-
-## Public Projects
-
-Distributed File Storage (Go)  
-Peer-to-peer decentralized storage with replication and encryption.
-
-HAProxy Ingress – WebSocket Graceful Shutdown  
-Benchmarking Kubernetes ingress behavior under live traffic.
-
-Zero Allocation Logger (Go)  
-`sync.Pool`-based memory optimization validated with profiling.
-
-Reservation Microservices System  
-NestJS microservices using gRPC, RabbitMQ, and SQL/NoSQL storage.
+#### Scalable GraphQL Platforms
+Developed production-grade GraphQL APIs with optimized batching (DataLoader), efficient database access patterns, and comprehensive testing strategies.
 
 ---
 
-## Engineering Philosophy
+### Public Projects
 
-Measure before optimizing  
-Observability is part of system design  
-Prefer explicit concurrency  
-Infrastructure as Code is mandatory  
-Simplicity scales better than cleverness  
+#### [Distributed File Storage (Go)](https://github.com/ArditZubaku/distributed-file-storage)
+Peer-to-peer decentralized storage system with automatic replication and encryption.  
+Focus: distributed consistency, fault tolerance, and network communication.
 
----
+#### [HAProxy Ingress – WebSocket Graceful Shutdown](https://github.com/ArditZubaku/ws-haproxy-ingress-graceful-shutdown)
+Golang WebSocket server benchmarking Kubernetes ingress shutdown behavior under live traffic.
 
-## Focus Areas
+#### [Zero Allocation Logger (Go)](https://github.com/ArditZubaku/zero-allocation-logger)
+Efficient `sync.Pool` implementation minimizing allocations and reducing GC pressure, validated with memory profiling.
 
-Low-latency systems  
-High-throughput pipelines  
-Scalable microservices  
-Production reliability  
-Continuous iteration  
+#### [Reservation Microservices System](https://github.com/ArditZubaku/reservation-booking-system)
+NestJS-based microservice architecture using gRPC, RabbitMQ, and SQL/NoSQL storage.
 
 ---
 
-## Contact
+### Engineering Philosophy
+
+- Measure before optimizing  
+- Observability is part of system design  
+- Prefer explicit concurrency over hidden abstractions  
+- Infrastructure as Code is mandatory  
+- Simplicity scales better than cleverness  
+
+---
+
+### Focus Areas
+
+- Low-latency systems  
+- High-throughput pipelines  
+- Scalable microservices  
+- Production reliability  
+- Continuous iteration  
+
+---
+
+### Contact
 
 zubakuardit@gmail.com
+
+**Email:** zubakuardit@gmail.com  
+**GitHub:** https://github.com/ArditZubaku
