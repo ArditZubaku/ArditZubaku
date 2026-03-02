@@ -9,98 +9,135 @@ Node.js • Golang • Distributed Systems • Event-Driven Architectures
 
 I design and build scalable backend systems focused on performance, reliability, and observability.
 
-My work centers around event-driven architectures, distributed microservices, and cloud-native infrastructure operating under real production load. I value clean system boundaries, measurable optimization, and infrastructure that scales predictably.
+My work centers around distributed microservices, event-driven architectures, and cloud-native infrastructure operating under real production load. I value clean system boundaries, measurable optimization, and infrastructure that scales predictably.
 
 ---
 
-## Core Expertise
+# Core Expertise
 
-### Languages
-- TypeScript / Node.js
-- Golang
+---
 
-### Backend & Architecture
-- NestJS, Express (Node.js)
-- Fiber, Chi (Golang)
-- GraphQL (DataLoader optimization)
-- REST & gRPC API design
-- Event-driven architecture
-- Microservices & distributed systems
-- WebSockets & real-time systems
-- Serverless (AWS Lambda)
-- Concurrency patterns (Go & Node.js)
+## Languages
 
-### Data & Streaming
-- PostgreSQL
-- Redis
-- DynamoDB
-- MongoDB
-- OpenSearch
-- Kafka
-- RabbitMQ
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
 
-### Cloud & DevOps
-- AWS (Lambda, S3, SQS, SNS, EC2, IAM, CloudWatch)
-- Azure (AKS)
-- Docker
-- Kubernetes
-- Terraform
-- Prometheus
-- Grafana
-- OpenTelemetry
+---
+
+## Backend & Architecture
+
+<p>
+  <!-- AWS / Cloud Managed -->
+  <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API-Gateway-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-SQS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <!-- Open Source / Frameworks -->
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST-API-4B5563?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiber-00C7B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Chi-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Event--Driven-Architecture-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Concurrency-Go%20%26%20Node-0f172a?style=for-the-badge"/>
+</p>
+
+---
+
+## Data & Streaming
+
+<p>
+  <!-- AWS First -->
+  <img src="https://img.shields.io/badge/AWS-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-Kinesis-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <!-- Open Source -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+---
+
+## Cloud & DevOps
+
+<p>
+  <!-- AWS First -->
+  <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+  <!-- Azure -->
+  <img src="https://img.shields.io/badge/Azure-AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
+  <!-- Open Source -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge"/>
+</p>
 
 ---
 
 ## Professional Experience Highlights
 
-### Event-Driven Cloud Systems (AWS)
-Designed and developed serverless, Lambda-based and Kafka-driven pipelines for large-scale data ingestion, detection, and alerting systems. Focused on DynamoDB query optimization, distributed workflow reliability, and infrastructure automation with Terraform.
+Event-driven serverless systems built on AWS Lambda, SQS, DynamoDB, and Kafka for large-scale ingestion and alerting pipelines.
 
-### High-Concurrency Go Services (AKS)
-Built and operated distributed Go microservices running in Kubernetes, integrating Redis, RabbitMQ, and real-time communication systems. Emphasized autoscaling, observability, and performance benchmarking.
+High-concurrency Go microservices deployed to Kubernetes (AKS), integrating Redis and RabbitMQ with full observability.
 
-### Scalable GraphQL APIs
-Developed production-grade GraphQL APIs with efficient data access patterns, optimized database queries, and robust testing strategies.
+Production-grade GraphQL APIs with optimized batching, efficient database access patterns, and robust testing.
 
 ---
 
 ## Public Projects
 
-### Distributed File Storage (Golang)
-Peer-to-peer decentralized file storage system with replication and encryption.  
-Focus: network communication, distributed consistency, and fault tolerance.
+Distributed File Storage (Go)  
+Peer-to-peer decentralized storage with replication and encryption.
 
-### HAProxy Ingress – WebSocket Graceful Shutdown
-Golang WebSocket server benchmarking Kubernetes ingress shutdown behavior under live traffic.
+HAProxy Ingress – WebSocket Graceful Shutdown  
+Benchmarking Kubernetes ingress behavior under live traffic.
 
-### Zero Allocation Logger (Go)
-Demonstrates use of `sync.Pool` to minimize allocations and reduce GC pressure, validated with memory profiling.
+Zero Allocation Logger (Go)  
+`sync.Pool`-based memory optimization validated with profiling.
 
-### Reservation Microservices System
-NestJS-based microservice architecture using gRPC, RabbitMQ, and SQL/NoSQL storage.
+Reservation Microservices System  
+NestJS microservices using gRPC, RabbitMQ, and SQL/NoSQL storage.
 
 ---
 
 ## Engineering Philosophy
 
-- Measure before optimizing.
-- Observability is part of system design.
-- Prefer explicit concurrency over hidden abstractions.
-- Infrastructure as Code is non-negotiable.
-- Simplicity scales better than cleverness.
+Measure before optimizing  
+Observability is part of system design  
+Prefer explicit concurrency  
+Infrastructure as Code is mandatory  
+Simplicity scales better than cleverness  
 
 ---
 
-## What I Focus On
+## Focus Areas
 
-- Low-latency systems
-- High-throughput pipelines
-- Scalable microservices
-- Production reliability
-- Continuous iteration and measurable improvement
+Low-latency systems  
+High-throughput pipelines  
+Scalable microservices  
+Production reliability  
+Continuous iteration  
 
 ---
 
 ## Contact
 
-Email: zubakuardit@gmail.com  
+zubakuardit@gmail.com
