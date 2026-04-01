@@ -1,7 +1,7 @@
 # Ardit Zubaku
 
 Backend & Cloud-Native Engineer  
-Javascript • Typescript Node.js • Golang • Distributed Systems • Event-Driven Architectures  
+Javascript • Typescript • Node.js • Golang • Distributed Systems • Event-Driven Architectures  
 
 ---
 
