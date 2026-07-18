@@ -1,7 +1,7 @@
 # Ardit Zubaku
 
 Backend & Cloud-Native Engineer  
-Javascript • Typescript • Node.js • Golang • Distributed Systems • Event-Driven Architectures  
+Javascript • Typescript • Node.js • Golang • Rust • Distributed Systems • Event-Driven Architectures
 
 ---
 
@@ -10,6 +10,7 @@ Javascript • Typescript • Node.js • Golang • Distributed Systems • Eve
 I design and build scalable backend systems focused on performance, reliability, and observability.
 
 My work centers around distributed microservices, event-driven architectures, and cloud-native infrastructure operating under real production load. I value clean system boundaries, measurable optimization, and infrastructure that scales predictably.
+
 
 ---
 
@@ -20,6 +21,7 @@ My work centers around distributed microservices, event-driven architectures, an
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-orange?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
 ---
