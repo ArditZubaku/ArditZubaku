@@ -107,15 +107,22 @@ Developed production-grade GraphQL APIs with optimized batching (DataLoader), ef
 
 ## Public Projects
 
+### [tex](https://github.com/ArditZubaku/tex)
+Implementation of Vim using Golang with a constant-memory file loading. 
+Uses less memory than bare vi while offering many more features like syntax highlighting, all core vim motions and also ones like gd/gr, with buffers and window splitting. Also comes with its own file explorer.
+Focus: memory, navigation, workflow and performance.
+
+### [kvx](https://github.com/ArditZubaku/kvx)
+A Redis-like key-value store written from scratch in Go. 
+Under the hood, the server runs a single-threaded event loop built on Linux's epoll.
+Focus: event-loop, concurrency, engine and performance.
+
 ### [Distributed File Storage (Go)](https://github.com/ArditZubaku/distributed-file-storage)
 Peer-to-peer decentralized storage with automatic replication and encryption.  
 Focus: distributed consistency, fault tolerance, and network communication.
 
 ### [HAProxy Ingress – WebSocket Graceful Shutdown](https://github.com/ArditZubaku/ws-haproxy-ingress-graceful-shutdown)
 Benchmarking Kubernetes ingress behavior under live WebSocket traffic.
-
-### [Zero Allocation Logger (Go)](https://github.com/ArditZubaku/zero-allocation-logger)
-`sync.Pool`-based memory optimization validated with profiling.
 
 ### [Reservation Microservices System](https://github.com/ArditZubaku/reservation-booking-system)
 NestJS microservices using gRPC, RabbitMQ, and SQL/NoSQL storage.
